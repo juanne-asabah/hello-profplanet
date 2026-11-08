@@ -1,4 +1,4 @@
-# Juanne-Phylis Asabah
+# Juanne Asabah
 
 Coding for me is all about constant practice.
 I am a Software Engineering student.
